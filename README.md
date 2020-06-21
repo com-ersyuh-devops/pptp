@@ -1,4 +1,4 @@
-# pptp　server
+# pptp server
 Virtual private server related
 
 Setup Simple PPTP VPN server for CentOS and Ubuntu
